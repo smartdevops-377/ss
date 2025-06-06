@@ -5,4 +5,10 @@
 12
 56
 7869
+<<<<<<< HEAD
 we are performing the concept of Merge conflict that happens veryr regularaly
+=======
+fdghdwvcjskxz
+cavxzhJBNM<z
+we are doing a MR conflict concept
+>>>>>>> mr1
